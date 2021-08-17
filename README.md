@@ -2,22 +2,22 @@
 Youtube Spam Comment Detector using ML. &amp; Flask
 
 
-### Abstract: 
+### Abstract
 We know that YouTube has emerged as the most popular website for sharing and watching 
-video content. However, such success has also attracted malicious users, whose goal is to selfpromote their videos or spread viruses and malware. Therefore, it is very important to find ways to identify and report these videos & comments.
-### Objective:
+video content. However, such success has also attracted malicious users, whose goal is to self-promote their videos or spread viruses and malware. Therefore, it is very important to find ways to identify and report these videos & comments.
+### Objective
 The objective of this project is to create a web-app using python(Flask). This project will be build 
 using python modules like Numpy, Flask, SkLearn, Mathplotlib... etc.
 In this project, the user has to give youtube comment “predict” button. It will show the result 
 below. If the user clicks on the “reload” button, then it will reload the app.
-### Prerequisites:
+### Prerequisites
  1.Familiarity with Python
  2.Working knowledge of Random Forest algorithm and Bag of words model will be a plus.
 
 
 To build this project we will use the basic concept of python and libraries
 
-A)NumPy is a library for the Python programming language, adding support for large, multidimensional arrays and matrices, along with a large collection of high-level mathematical 
+A)NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical 
 functions to operate on these
 
 B) pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for 
@@ -73,7 +73,17 @@ Let’s check the steps to build This project using Python
 
 ![image](https://user-images.githubusercontent.com/60839928/129749885-eb6148f7-b9b8-4743-90f8-cd798f3e06ac.png)
 
-#### Output---
+### Output
+
+To Run this Application Open CMD in project Directory
+	And Type This command: Python (filename.py)
+	
+For Example:
+CMD-	Python app.py
+
+* Running on http://127.0.0.1:8081/ (Press CTRL+C to quit)
+So The Apploication is runing on localhost 8081 port. We can simplly check it  in our browser.
+
 ##### Home Page
 
 ![image](https://user-images.githubusercontent.com/60839928/129750610-fe2f1842-69ac-46e0-a120-bb7bc96d6ac9.png)
@@ -86,7 +96,7 @@ Let’s check the steps to build This project using Python
 
 ![image](https://user-images.githubusercontent.com/60839928/129750719-e5d825ac-4d82-4c60-a539-337078e4cdef.png)
 
-#### Debugging
+### Debugging
 
 ##### When Application is Running...
 ![image](https://user-images.githubusercontent.com/60839928/129750846-065fc79e-e42d-4fea-9ae6-9345cc7ec549.png)
