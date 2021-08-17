@@ -11,22 +11,22 @@ using python modules like Numpy, Flask, SkLearn, Mathplotlib... etc.
 In this project, the user has to give youtube comment “predict” button. It will show the result 
 below. If the user clicks on the “reload” button, then it will reload the app.
 #### Prerequisites:
-> Familiarity with Python
-> Working knowledge of Random Forest algorithm and Bag of words model will be a plus.
+ 1.Familiarity with Python
+ 2.Working knowledge of Random Forest algorithm and Bag of words model will be a plus.
 To build this project we will use the basic concept of python and libraries –
-✓ NumPy is a library for the Python programming language, adding support for large, multidimensional arrays and matrices, along with a large collection of high-level mathematical 
+ NumPy is a library for the Python programming language, adding support for large, multidimensional arrays and matrices, along with a large collection of high-level mathematical 
 functions to operate on these
-✓ pandas is a software library written for the Python programming language for data 
+ pandas is a software library written for the Python programming language for data 
 manipulation and analysis. In particular, it offers data structures and operations for 
 manipulating numerical tables and time series.
-✓ Flask is a micro web framework written in Python. It is classified as a microframework because 
+ Flask is a micro web framework written in Python. It is classified as a microframework because 
 it does not require particular tools or libraries. It has no database abstraction layer, form 
 validation, or any other components where pre-existing third-party libraries provide common 
 functions
-✓ Scikit-learn is a free software machine learning library for the Python programming language. 
+ Scikit-learn is a free software machine learning library for the Python programming language. 
 It features various classification, regression and clustering algorithms including support vector 
 machines, ...etc
-✓ Matplotlib is a plotting library for the Python programming language and its numerical 
+ Matplotlib is a plotting library for the Python programming language and its numerical 
 mathematics extension NumPy. It provides an object-oriented API for embedding plots into 
 applications using general-purpose GUI toolkits like Tkinter, wxPython
 
@@ -57,22 +57,32 @@ Let’s check the steps to build This project using Python
 	Language: Python 3.9.
 	IDE: Visual Studio Code 2021. 
 	Jupyter Note Book / Google-Colab
+	
 #### System Diagram
+
 ![image](https://user-images.githubusercontent.com/60839928/129749793-5ed8260e-0962-405f-a013-e779e95b5d7b.png)
+
 #### Algorithm (naive bayes)
+
 ![image](https://user-images.githubusercontent.com/60839928/129749885-eb6148f7-b9b8-4743-90f8-cd798f3e06ac.png)
 
 #### Output---
+
 ![image](https://user-images.githubusercontent.com/60839928/129750610-fe2f1842-69ac-46e0-a120-bb7bc96d6ac9.png)
+
 ![image](https://user-images.githubusercontent.com/60839928/129750660-84e871fe-52e0-4adb-8c11-be4ce2d9a75a.png)
+
 ![image](https://user-images.githubusercontent.com/60839928/129750719-e5d825ac-4d82-4c60-a539-337078e4cdef.png)
 
 #### Debugging
 ![image](https://user-images.githubusercontent.com/60839928/129750846-065fc79e-e42d-4fea-9ae6-9345cc7ec549.png)
+
 (Press CTRL+C to quit)
+
 ![image](https://user-images.githubusercontent.com/60839928/129750945-904277ef-7c07-4988-a606-773d0a29a041.png)
 
 ##### Application Source Code: 
+
 Google-Colab link: 
 https://colab.research.google.com/drive/1XDhr1U2d7AHjV9vgrsBsstuIrGMKDajL?authuser=1
 
