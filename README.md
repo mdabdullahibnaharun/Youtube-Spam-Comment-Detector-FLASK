@@ -76,7 +76,8 @@ Let’s check the steps to build This project using Python
 
 #### Algorithm (naive bayes)
 
-![image](https://user-images.githubusercontent.com/60839928/129749885-eb6148f7-b9b8-4743-90f8-cd798f3e06ac.png)
+![image](https://user-images.githubusercontent.com/60839928/129827928-799c790d-c78a-42ee-bbcf-7db882a2a4ef.png)
+
 
 ### Output
 
@@ -125,6 +126,7 @@ The outcome of this project is a simple application all people can use to check 
 
 ### Conclusion:
 This was a great experience doing this project. With these steps, I have successfully created a ML Project. For classifying the YouTube comments as spam and not spam (ham) there are various techniques used. This approach has been tested with real-time YouTube comments and given an overall outcome which is 92% accurate. This approach has been tested with real-time YouTube comments and given an overall outcome which is more accurate. I used popular libraries to rendering datasets and also learned about basics of Machine learning. In this way, I successfully created my youtube spam comment detector python project. The challenges I faced and the learning that will come in great help in the future. Hope you enjoyed it.
+
 Thank You. 😊
 
 
