@@ -43,6 +43,11 @@ To install the libraries we can use pip installer from the command line:
   3) pip install flask
   4) pip install sklearn
   5) pip install matplotlib
+  
+  or Open CMD in project Directory and type -
+  
+  pip install -r requirements.txt
+  
 ###### Examples
 ![image](https://user-images.githubusercontent.com/60839928/129749027-c5b332d8-b873-42e4-b2db-bd2da7ddc24f.png)
 
