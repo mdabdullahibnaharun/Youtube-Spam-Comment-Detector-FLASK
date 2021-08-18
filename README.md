@@ -12,7 +12,7 @@ In this project, the user has to give youtube comment “predict” button. It w
 below. If the user clicks on the “reload” button, then it will reload the app.
 ### Prerequisites
  1.Familiarity with Python
- 2.Working knowledge of Random Forest algorithm and Bag of words model will be a plus.
+ 2.Working knowledge of Naive-bayes algorithm.
 
 
 To build this project we will use the basic concept of python and libraries
